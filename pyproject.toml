@@ -1,0 +1,7 @@
+[project]
+name = "mlopszoomcamp"
+version = "0.1.0"
+description = "MlOpsZoomcamp 2025"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = []
